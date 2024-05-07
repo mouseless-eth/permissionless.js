@@ -6,9 +6,9 @@ import type {
 import type { EntryPoint, GetEntryPointVersion } from "../types/entrypoint"
 
 export const ENTRYPOINT_ADDRESS_V06: ENTRYPOINT_ADDRESS_V06_TYPE =
-    "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789"
+    "0x94BFb82d788b874F35b823390eAECaafEf855Fdb"
 export const ENTRYPOINT_ADDRESS_V07: ENTRYPOINT_ADDRESS_V07_TYPE =
-    "0x0000000071727De22E5E9d8BAf0edAc6f37da032"
+    "0x6FD13B10bBb052879b06D320cEce3b06566C58F0"
 
 export const getEntryPointVersion = (
     entryPoint: EntryPoint

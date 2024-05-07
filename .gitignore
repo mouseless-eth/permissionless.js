@@ -1,6 +1,4 @@
-_cjs
-_esm
-_types
+node_modules/
 *.local
 .DS_Store
 .eslintcache
@@ -8,7 +6,6 @@ _types
 bench
 cache
 coverage
-node_modules
 tsconfig*.tsbuildinfo
 esbuild-why-permissionless*
 
